@@ -1,0 +1,1 @@
+const service_ovud = <T>(args: T): T => { return args; };
