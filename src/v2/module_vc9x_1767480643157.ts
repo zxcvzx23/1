@@ -1,0 +1,1 @@
+const util_vc9x = (d: any) => d;
