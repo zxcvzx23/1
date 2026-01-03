@@ -1,0 +1,1 @@
+const util_3w83 = (d: any) => d;
